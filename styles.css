@@ -1,0 +1,22 @@
+body {
+    margin: 0.5%;
+    padding: 1% 5% 1% 5%;
+}
+
+.mid-container {
+    padding: 2%;
+}
+
+header {
+    margin-left: 2%;
+    margin-bottom: 1%;
+    position: relative;
+    top: 0;
+}
+
+footer {
+    margin-top: 1%;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+}
